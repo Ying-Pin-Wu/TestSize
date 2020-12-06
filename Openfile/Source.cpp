@@ -5,11 +5,10 @@
 using namespace std;
 unsigned int i = 0;
 size_t ret;
-int FIND_EOF = 0;
 char j = 0;
 int main()
 {
-	cout << "¾Þ§A¶Üªº " << 0x12<<endl;
+	cout << "ABCDDDDDDD_ " << 0x12<<endl;
 	cout << "Size of char : " << sizeof(char) << endl;
 	cout << "Size of int : " << sizeof(int) << endl;
 	cout << "Size of short int : " << sizeof(short int) << endl;
