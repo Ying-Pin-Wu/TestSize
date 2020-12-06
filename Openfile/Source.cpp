@@ -8,6 +8,9 @@ size_t ret;
 char j = 0;
 int main()
 {
+
+cout << "VCCCDD " << 0x1231<<endl;
+
 	cout << "ABCDDDDDDD_ " << 0x12<<endl;
 	cout << "Size of char : " << sizeof(char) << endl;
 	cout << "Size of int : " << sizeof(int) << endl;
